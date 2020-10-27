@@ -32,7 +32,7 @@ conda==4.8.3
 conda-build==3.18.9
 conda-package-handling==1.6.0
 conda-verify==3.4.2
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
